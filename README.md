@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm third-year student at George Washington University studying **computer science** and **political science**. I'm currently **interning at MITRE as a Cyber SWE Intern**, but will also be volunteering my programming skills as **a developer for the Environmental Defense Fund**, where I'll be working alongside a small team to develop a Hazard Reporting Web-App through a neat organization called Develop for Good. I've always been interested in the intersection of tech, programming and public policy so I'm very excited to see what these experiences will bring!
+I'm third-year student at George Washington University studying **computer science** and **political science**. I'm currently **interning at MITRE as a Cyber SWE Intern**, but will also be volunteering my programming skills as **a developer for the Environmental Defense Fund** alongside a small team (~10 others) to develop a Hazard Reporting Web-App through a neat organization called Develop for Good. I've always been interested in the intersection of tech, programming and public policy so I'm very excited to see what these experiences will bring!
 
 Feel free to check out more about me and my experiences at www.sreyanalla.com or get in touch with me at sreyanalla@gwu.edu!
